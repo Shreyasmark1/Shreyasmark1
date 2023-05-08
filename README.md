@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shreyasmark1
-- 👀 I’m interested in ui/ux
+<!--- - 👀 I’m interested in ui/ux --->
 - 🌱 I’m currently learning flutter, firebase 
 - 💞️ I’m looking to collaborate on flutter, firebase 
 - 📫 How to reach me : here
