@@ -1,5 +1,5 @@
 <h1 align="center">Shreyas</h1>
-<img src="https://webtrack.thegoweb.com/p/zgHUvVYro"/>
+<img src="https://webtrack.thegoweb.com/p/zgHUvVYro" width="1" height="1" />
 <p align="center">
   <img
     src="https://avatars.githubusercontent.com/u/117585934?v=4"
